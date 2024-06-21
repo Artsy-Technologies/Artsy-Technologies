@@ -1,6 +1,5 @@
-# Welcome to Artsy Technologies
-
-<img alt= "binary" width="400" src="https://gifdb.com/images/high/database-future-technology-4d016r1ib6jvvsj6.gif">
+# Welcome to Artsy Technologies👋🏻
+[![MasterHead](https://www.binarytechlabs.com/content/images/size/w600/2022/11/network-7337255_1920.jpg)](https://rishavchanda.io)<br>
 
 Artsy technologies is a place where innovation meets technology. We are a forward-thinking company dedicated to transforming the tech landscape with cutting-edge solutions and unparalleled services. This provides an overview of our mission, vision, core values, and how you can contribute to our journey.
 
